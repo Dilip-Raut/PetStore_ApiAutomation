@@ -1,16 +1,24 @@
-11:07:45.092 [main] INFO  api.test.UserTest2 - ****************** Creating User *********************
-11:07:49.042 [main] INFO  api.test.UserTest2 - ****************** User Created *********************
-11:07:49.059 [main] INFO  api.test.UserTest2 - ****************** Reading  User Info *********************
-11:07:50.693 [main] INFO  api.test.UserTest2 - ****************** User Info Displayed*********************
-11:07:50.702 [main] INFO  api.test.UserTest2 - ****************** Updating User *********************
-11:07:52.574 [main] INFO  api.test.UserTest2 - ****************** User updated *********************
-11:07:54.214 [main] INFO  api.test.UserTest2 - ******************Deleting User *********************
-11:07:55.769 [main] INFO  api.test.UserTest2 - ****************** User Deleted*********************
-11:08:54.740 [main] INFO  api.test.UserTest2 - ****************** Creating User *********************
-11:08:59.020 [main] INFO  api.test.UserTest2 - ****************** User Created *********************
-11:08:59.042 [main] INFO  api.test.UserTest2 - ****************** Reading  User Info *********************
-11:09:00.507 [main] INFO  api.test.UserTest2 - ****************** User Info Displayed*********************
-11:09:00.510 [main] INFO  api.test.UserTest2 - ****************** Updating User *********************
-11:09:02.283 [main] INFO  api.test.UserTest2 - ****************** User updated *********************
-11:09:03.757 [main] INFO  api.test.UserTest2 - ******************Deleting User *********************
-11:09:05.243 [main] INFO  api.test.UserTest2 - ****************** User Deleted*********************
+13:14:12.233 [main] INFO  api.test.UserTest - ****************** Creating User *********************
+13:14:16.467 [main] INFO  api.test.UserTest - ****************** User Created *********************
+13:14:16.488 [main] INFO  api.test.UserTest - ****************** Reading  User Info *********************
+13:14:18.088 [main] INFO  api.test.UserTest - ****************** User Info Displayed*********************
+13:14:18.091 [main] INFO  api.test.UserTest - ****************** Updating User *********************
+13:14:19.604 [main] INFO  api.test.UserTest - ****************** User updated *********************
+13:14:21.164 [main] INFO  api.test.UserTest - ******************Deleting User *********************
+13:14:23.160 [main] INFO  api.test.UserTest - ****************** User Deleted*********************
+13:18:10.027 [main] INFO  api.test.UserTest - ****************** Creating User *********************
+13:18:14.429 [main] INFO  api.test.UserTest - ****************** User Created *********************
+13:18:14.447 [main] INFO  api.test.UserTest - ****************** Reading  User Info *********************
+13:18:16.244 [main] INFO  api.test.UserTest - ****************** User Info Displayed*********************
+13:18:16.247 [main] INFO  api.test.UserTest - ****************** Updating User *********************
+13:18:17.984 [main] INFO  api.test.UserTest - ****************** User updated *********************
+13:18:19.723 [main] INFO  api.test.UserTest - ******************Deleting User *********************
+13:18:21.479 [main] INFO  api.test.UserTest - ****************** User Deleted*********************
+15:34:23.164 [main] INFO  api.test.UserTest - ****************** Creating User *********************
+15:34:29.926 [main] INFO  api.test.UserTest - ****************** User Created *********************
+15:34:29.957 [main] INFO  api.test.UserTest - ****************** Reading  User Info *********************
+15:34:31.495 [main] INFO  api.test.UserTest - ****************** User Info Displayed*********************
+15:34:31.498 [main] INFO  api.test.UserTest - ****************** Updating User *********************
+15:34:33.049 [main] INFO  api.test.UserTest - ****************** User updated *********************
+15:34:34.533 [main] INFO  api.test.UserTest - ******************Deleting User *********************
+15:34:36.015 [main] INFO  api.test.UserTest - ****************** User Deleted*********************
