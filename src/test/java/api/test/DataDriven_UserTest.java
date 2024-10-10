@@ -23,6 +23,7 @@ public class DataDriven_UserTest {
 		userPayload.setPassword(pwd);
 		userPayload.setPhone(ph);
 		
+		
 		Response response =	UserEndPoints.createUser(userPayload);
 	    
 	    Assert.assertEquals(response.getStatusCode(),200);
